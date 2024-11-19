@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="first_spinner">
+        <item>Categories</item>
+        <item>.Province</item>
+        <item>.City</item>
+        <item>.Town</item>
+    </string-array>
+
+    <string-array name="second_spinner">
+        <item>Location</item>
+        <item>.Limpopo</item>
+        <item>.Gauteng</item>
+        <item>.Germistorn</item>
+        <item>.Johannesburg</item>
+        <item>.Kempton Park </item>
+        <item>.Other?</item>
+    </string-array>
+
+
+    <string-array name ="Type_Of_Payment">
+        <item>Type of Payements </item>
+        <item>.EFT </item>
+        <item>.Wire Transfer</item>
+        <item>.PayFast</item>
+        <item>.Bank Transfer</item>
+        <item>.MasterPass</item>
+    </string-array>
+
+</resources>

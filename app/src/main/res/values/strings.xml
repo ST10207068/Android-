@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project3</string>
+
+        <string-array name="sort_options">
+            <item>Sort by</item>
+            <item>Price: Lowest to Highest</item>
+            <item>Price: Highest to Lowest</item>
+        </string-array>
+    <string-array name="ingredients_list">
+        <item>Cheese (+R5)</item>
+        <item>Egg (+R4)</item>
+        <item>chili (+R2)</item>
+        <item>Tomato (+R3)</item>
+        <item>Mayo (+R5)</item>
+        <item>Cheese (-R5)</item>
+        <item>Egg (-R4)</item>
+        <item>chili (-R2)</item>
+        <item>Tomato (-R3)</item>
+        <item>Mayo (-R5)</item>
+    </string-array>
+</resources>
